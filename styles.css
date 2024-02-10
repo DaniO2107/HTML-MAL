@@ -1,0 +1,8 @@
+header {
+  background-color: black;
+  height: var(height-nav);
+}
+
+body {
+  color: bisque;
+}
